@@ -1,4 +1,4 @@
-# JBL XTREME 2 BMS
+# Battery Management System
 Arduino sketches to analyse and emulate BMS microchip of the Battery Pack for the JBL XTREME 2 Bluetooth Speaker.
 
 ## Module 1. Stub for Battery Pack
@@ -58,10 +58,8 @@ This utility program helps calibrate constants for accurate current measurement 
 [Explore->](utils/current-measurement)
 
 ## Author
-[@asilichenko](https://github.com/asilichenko)
+[@shaik Mudassir Nawaz](https://github.com/Mudassirnawaz24)
 
-## License
-[MIT license](LICENSE)
 
 ## References
 - Texas Instruments BQ28Z610 Technical Reference Manual: [https://www.ti.com/lit/ug/sluua65e/sluua65e.pdf](https://www.ti.com/lit/ug/sluua65e/sluua65e.pdf)
